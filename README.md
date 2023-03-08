@@ -1,3 +1,4 @@
 # Privacy-policy
 privacy policy template for my apps purpose
-view
+
+#visit - [ Privacy-policy](/)
